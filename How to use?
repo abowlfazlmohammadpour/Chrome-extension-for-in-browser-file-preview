@@ -1,0 +1,7 @@
+Download the zip file and extract it.
+Open the extracted "mpouriew" folder, click on the address bar, type "powershell", and press Enter.
+In the PowerShell window that opens, paste this command and press Enter:powershell -ExecutionPolicy Bypass -File setup-pdfjs.ps1
+Open Chrome and go to chrome://extensions
+Turn on "Developer mode" (top-right toggle).
+Click "Load unpacked" and select the "mpouriew" folder.
+Enjoy!
